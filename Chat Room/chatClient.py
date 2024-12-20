@@ -21,6 +21,7 @@ def main():
     Description: Houses all of the function calls
     '''
     args = parse()
+    print("hello")
 
 if __name__ == "__main__":
     main()
